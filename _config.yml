@@ -12,7 +12,8 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: rmurrish/agency-jekyll-theme
+#remote_theme: rmurrish/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme@d49faac
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-theme-test" # the subpath of your site, e.g. /blog
